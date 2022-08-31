@@ -1,0 +1,22 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="500"
+    height="700">
+    <circle r="180" fill="#3e8fd1" cx="250" cy="450"></circle>
+    <circle r="100" fill="#3e8fd1" cx="250" cy="200"></circle>
+    <ellipse rx="75" ry="50" fill="#3e8fd1" cx="150" cy="600"></ellipse>
+    <ellipse rx="75" ry="50" fill="#3e8fd1" cx="350" cy="600"></ellipse>
+    <ellipse rx="65" ry="50" fill="#3e8fd1" cx="70" cy="380"></ellipse>
+    <ellipse rx="65" ry="50" fill="#3e8fd1" cx="430" cy="380"></ellipse>
+    <circle r="15" fill="black" cx="250" cy="400"></circle>
+    <circle r="15" fill="black" cx="250" cy="350"></circle>
+    <circle r="15" fill="black" cx="250" cy="450"></circle>
+    <circle r="15" fill="black" cx="250" cy="500"></circle>
+    <circle r="15" fill="black" cx="250" cy="550"></circle>
+    <circle r="50" fill="black" cx="250" cy="220"></circle>
+    <circle r="60" fill="#3e8fd1" cx="250" cy="205"></circle>
+    <circle r="10" fill="black" cx="220" cy="180"></circle>
+    <circle r="10" fill="black" cx="280" cy="180"></circle>
+    <polygon points="200,220 250,180 260,220"  fill="orange" stroke="orange" stroke-linecap="round"></polygon>
+    <polygon points="190,130 210,20 290,20 310,130"  fill="gray" stroke="black" stroke-width="3" stroke-linecap="round"></polygon>
+    </svg>
